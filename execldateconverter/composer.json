@@ -1,0 +1,20 @@
+{
+    "name": "hypervix/excel-date-converter",
+    "description": "A utility to convert and format Excel dates in PHP.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hypervix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jayanta Bhunia",
+            "email": "bhuniajayant@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
